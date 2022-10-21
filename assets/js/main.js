@@ -146,7 +146,7 @@
    'Life takes a turn for the worst when he is directly affected by post-election violence and he loses his loved ones. He grows anger issues and just like his father he dives into alcoholism and promiscuity.'+' '+
    'He tries to use positive distractions like building up his old school Subaru, sweating it off in the field and the gym, but this is no small feat.'+' '+
    'Will he beat the odds to overcome this mental struggles?'; /* The text */
-   let speed = 75; /* The speed/duration of the effect in milliseconds */
+   let speed = 50; /* The speed/duration of the effect in milliseconds */
    
    function typeWriter() {
      if (i < txt.length) {
